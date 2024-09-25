@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5dc;
+  margin: 0;
+  padding: 0;
+}
+
+h2, h3 {
+  color: #5c4b8a;
+}
+
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  max-width: 800px;
+}
+
+.capivara-img {
+  border-radius: 8px;
+}
+
+.btn {
+  background-color: #5c4b8a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #4a3a70;
+}
+
+.comportamento {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.comportamento h2 {
+    color: #4a4a4a;
+    font-size: 24px;
+}
+
+.comportamento p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.comportamento {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.comportamento h2 {
+  color: #4a4a4a;
+  font-size: 24px;
+}
+
+.comportamento p {
+  color: #555;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.home {
+  padding: 20px;
+  background-color: #e8f4f8;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.home h1 {
+  color: #333;
+  font-size: 28px;
+}
+
+.home p {
+  color: #555;
+  line-height: 1.6;
+  font-size: 16px;
+}
